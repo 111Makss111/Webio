@@ -1,0 +1,11 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.conteiner {
+  width: 100%;
+  max-width: 1920px;
+}
+.creative {
+  background-image: url(../img/bagraund.png);
+  max-width: 1920px;
+}
