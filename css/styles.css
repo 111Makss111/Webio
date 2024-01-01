@@ -171,6 +171,7 @@ img {
   gap: 165px;
   align-items: center;
   justify-content: center;
+  margin-top: 150px;
 }
 .footer-list {
   display: flex;
@@ -217,3 +218,6 @@ img {
   height: 185.217px;
   flex-shrink: 0;
 }
+/* .idea-list-item:not(:first-child):not(:last-child) {
+  border: 20px #50583b;
+} */
